@@ -2,9 +2,9 @@
 - Student
 - Learner
 - 👀 I’m interested in DevOps and ML
-- 🌱 I’m currently learning JAVA
+- 🌱 Grinding TECH
 - 📫 How to reach me 
-  
+  https://linktr.ee/aravind13
 
 <!---
 aravind13092001/aravind13092001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
