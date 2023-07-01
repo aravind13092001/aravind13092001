@@ -3,8 +3,7 @@
 - Learner
 - 👀 I’m interested in DevOps and ML
 - 🌱 Grinding TECH
-- 📫 How to reach me 
-  https://linktr.ee/aravind13
+- 📫 How to reach me https://bio.link/aravind_sakthivel
 
 <!---
 aravind13092001/aravind13092001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
