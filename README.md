@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aravind
-- Student
 - Learner
 - 👀 I’m interested in DevOps and ML
 - 🌱 Grinding TECH
